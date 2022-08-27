@@ -1,6 +1,22 @@
 body{
     direction: rtl;
+    text-align: right;
+    background-color: #f9fafd;
 }
+
+
 .page-one{
     background-color: #f9fafd;
+}
+.bag{
+    width: 50px;
+    height: 50px;
+}
+.product-info-box {
+    background-color: #f9fafd;  
+    font-size: .875rem;
+    font-weight: 550;
+}
+.owl-carousel{
+    direction: ltr;
 }
